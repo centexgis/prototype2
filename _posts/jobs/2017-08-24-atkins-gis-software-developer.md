@@ -16,6 +16,7 @@ categories:
 
 Atkins seeks an energetic and highly motivated self-starter to join our Atkins North America Technology Group as a GIS Software Developer. This position can sit in any Atkins North American hub office in the United States.
 <!--more-->
+
 Atkins has been providing infrastructure planning, engineering, construction, environmental consulting, urban planning, architecture, and program management services to public and private clients across the United States for more than 50 years.
 
 Globally, Atkins is the largest UK-based engineering and design consultancy and one of the world's largest design firms with nearly 18,000 employees worldwide. We have the depth and breadth of expertise to respond to the most technically challenging and time-critical infrastructure projects and the urgent transition to a low-carbon economy.

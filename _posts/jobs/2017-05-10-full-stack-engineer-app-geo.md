@@ -14,6 +14,7 @@ categories:
 
 AppGeo is looking for a full-stack engineer to help us build rich, interactive applications for the modern web. Our small team of engineers are polyglots who regularly use a wide array of technologies, including Ember, React, Node.js, .NET Core, Postgres, and SQL Server. We have a growing business in Texas and are particularly interested in engineers located in and around Austin.
 <!--more-->
+
 We need your help to build mapping applications which will be used by people all over the country, from local governments to large corporations. Our applications have helped policymakers create affordable housing, transportation agencies report road conditions, and businesses find optimal locations for new stores.
 
 ### The Role

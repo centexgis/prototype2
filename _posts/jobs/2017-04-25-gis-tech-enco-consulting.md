@@ -14,6 +14,7 @@ categories:
 ### Enco Consulting - Austin, TX
 
 Enco Consulting is looking for a GIS Technician, must have GIS Certification or equivalent courses and work experience.
+<!--more-->
 
 **Need to know:**
 - the ArcGIS Desktop platform

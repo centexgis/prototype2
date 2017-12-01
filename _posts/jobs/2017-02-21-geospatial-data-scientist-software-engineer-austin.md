@@ -17,6 +17,7 @@ Slingshot Aerospace is an early stage startup company breaking into the industry
 
 Must be a U.S. citizen authorized to work in the U.S.  
 <!--more-->
+
 Duties/Responsibilities:  
 - Design, develop and document code for design of big data analytics software
 - Documentation and testing new software applications
