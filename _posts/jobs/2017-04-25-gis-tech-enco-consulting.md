@@ -1,8 +1,10 @@
 ---
 title: "GIS Technician at Enco Consulting"
 date: 2017-04-25
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Jobs
 ---

@@ -1,8 +1,10 @@
 ---
 title: "TNRIS GIS Forum 2017"
 date: 2017-08-24 10:40
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Events
 ---

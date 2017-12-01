@@ -1,8 +1,10 @@
 ---
 title: "First CENTEX GIS meeting of 2017 Coming Up Soon"
 date: 2017-03-20 09:55
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Events
 ---

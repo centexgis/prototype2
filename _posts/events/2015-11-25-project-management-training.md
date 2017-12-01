@@ -1,8 +1,10 @@
 ---
 title: "Managing GIS Projects from GSAREH"
 date: 2015-11-25
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Events
 ---

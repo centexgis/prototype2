@@ -1,18 +1,20 @@
 ---
 title: "June 2017 CENTEX GIS Meeting"
 date: 2017-06-15 13:22
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Events
 ---
 ![centex gis](/assets/img/blog/centex.png)
 ### Please mark your calendars and make plans to join us for the upcoming CenTexGIS user group meeting!
+<!--more-->
 
 ### Date: June 27, 2017
 ### Time: 3:30 - 5:30pm
 ### Location: [Austin History Center - 810 Guadalupe St., Austin, TX, 78701](https://www.google.com/maps/place/Austin+History+Center,+Austin+Public+Library/@30.2717133,-97.7469814,18z/data=!3m1!4b1!4m5!3m4!1s0x8644b50bc234d3c3:0x2ac89189e352c67e!8m2!3d30.2717133!4d-97.7458871)
-<!--more-->
 
 We hope you will come out to this important event and meet with local GIS colleagues and friends to learn, network and help strengthen GIS community bonds through knowledge sharing and support. The proposed agenda for the meeting includes a recap of our March meeting workshop results, a GIS Day planning workshop, and several members of the CenTexGIS community will share and rehearse their presentations for the ESRI UC next month in San Diego, CA.
 

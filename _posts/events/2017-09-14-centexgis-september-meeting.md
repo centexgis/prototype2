@@ -1,14 +1,17 @@
 ---
 title: "CenTexGIS Meeting September 27, 2017"
 date: 2017-09-14 13:34
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Events
 ---
 ### Please mark your calendars and make plans to join us for the upcoming CenTexGIS user group meeting!  
 
 The meeting is scheduled for **Wednesday, September 27th 4:00 - 6:00 PM** at the [Flying Saucer](http://www.beerknurd.com/locations/austin-flying-saucer) (Triangle location - *The Hall* is reserved).
+<!--more-->
 
 We hope you will come out to this important event and meet with local GIS colleagues and friends to learn, network and help strengthen GIS community bonds through knowledge sharing and support. **Devon Humphrey**, Founder of **Flightline Geographics**, will join us and talk with the group about emerging UAS technology.
 

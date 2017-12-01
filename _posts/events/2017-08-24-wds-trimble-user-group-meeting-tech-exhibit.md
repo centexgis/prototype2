@@ -1,8 +1,10 @@
 ---
 title: "WDS & Trimble User Group Meeting & Tech Exhibit"
 date: 2017-08-24 10:18
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Events
 ---
@@ -10,9 +12,9 @@ categories:
 ![Trimble](/assets/img/blog/trimble.jpg)
 
 WDS & Trimble invite you to attend the 2017 User Group Meeting and Technology Exhibit featuring guest speakers and industry experts presenting technical seminars on a variety of Geospatial topics.
+<!--more-->
 
 Take advantage of this opportunity to increase your knowledge of industry related topics that will enhance your productivity and broaden your understanding of important topics you face every day as a Geospatial Professional.
-<!--more-->
 
 #### SEMINAR TRACKS INCLUDE:
 ##### MAPPING / GIS

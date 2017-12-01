@@ -1,8 +1,10 @@
 ---
 title: "Texas Emergency GIS Response Team Training in Austin"
 date: 2017-02-28 15:24
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Events
 ---

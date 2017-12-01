@@ -1,8 +1,10 @@
 ---
 title: "GIS Software Developer - Atkins"
 date: 2017-08-24 10:05
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Jobs
 ---

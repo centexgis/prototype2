@@ -1,12 +1,15 @@
 ---
 title: "Using GitHub and Leaflet to create free maps"
 date: 2017-09-28 13:38
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Learn
 ---
-GitHub and Leaflet is a great free solution to creating and hosting maps. This is a presentation created to help document the process.
+Leaflet + GitHub is a great solution to create and host free maps. This is a presentation to help document the process of using the Leaflet javascript API and the GitHub social coding web framework
+<!--more-->
 
 <iframe src="https://docs.google.com/presentation/d/1C27hDYrXOO4X7YKrygxoccybJ5iwHUXJ-s_oByBGYJo/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

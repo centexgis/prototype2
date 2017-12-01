@@ -20,7 +20,7 @@ description: "A comprehensive web resource for TxDOT Austin District employees."
 baseurl: # "/example"  # the subpath of your site, e.g. /blog
 url: # ""  # the base hostname & protocol for your site, e.g. http://example.com
 author:
-  name: CENTEXGIS
+  name: centexgis
   twitter: # Towlette_Pettetucci
   picture: # https://api.adorable.io/avatars/285/johndoe.png
 twitter_username: # Towlette_Pettetucci
@@ -45,6 +45,13 @@ feed:
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
 paginate_path: /page:num/
+
+# Disqus
+disqus:
+    shortname: centexgis
+
+# Google Analytics
+google_analytics:
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

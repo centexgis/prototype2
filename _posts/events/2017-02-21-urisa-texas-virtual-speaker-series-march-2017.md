@@ -1,8 +1,10 @@
 ---
 title: "URISA Texas Virtual Speaker Series - March 2017"
 date: 2017-02-21 14:55
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Events
 ---
@@ -10,11 +12,11 @@ categories:
 [![urisa-texas](/assets/img/blog/urisa_texas.jpg)](http://urisatexas.org/event-2469580)
 
 ###### The Role of GIS in Emergency Response and How We’re Meeting That in Texas
+<!--more-->  
 
 Presentation Outline:  
 
 The presentation will address the role of GIS in Emergency Response within the state of Texas.  The Texas Emergency GIS Response Team “EGRT” is a rapidly deployable GIS resource built to support disaster response and recovery efforts. The concept for EGRT was developed in 2006 for the North East Fire Department Association (NEFDA). This association covers 14 cities in Northeast Tarrant county. The presentation will cover how EGRT has continued to grow and now provides statewide emergency assistance across six regional areas of Texas. The speaker will answer questions regarding required training and volunteer opportunities so the call-up list can continue to grow.  
-<!--more-->  
 
 About the Speaker:  
 

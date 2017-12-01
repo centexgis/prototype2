@@ -1,8 +1,10 @@
 ---
 title: "ATX GIS Day is Back!!!"
 date: 2017-08-07 15:51
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Events
 ---

@@ -1,8 +1,10 @@
 ---
 title: "Austin Geo Bash 12-16-2015"
 date: 2015-11-30
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Events
 ---

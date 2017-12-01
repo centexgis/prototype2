@@ -1,8 +1,10 @@
 ---
 title: "Williamson County GIS Day"
 date: 2015-11-17
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Events
 ---

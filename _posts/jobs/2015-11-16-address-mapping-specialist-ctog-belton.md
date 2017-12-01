@@ -1,8 +1,10 @@
 ---
 title: "Address/Mapping Specialist with CTCOG in Belton"
 date: 2015-11-16
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Jobs
 ---

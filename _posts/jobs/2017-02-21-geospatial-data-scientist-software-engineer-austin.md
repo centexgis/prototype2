@@ -1,8 +1,10 @@
 ---
 title: "Geospatial Data Scientist/Software Engineer"
 date: 2017-02-21
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Jobs
 ---

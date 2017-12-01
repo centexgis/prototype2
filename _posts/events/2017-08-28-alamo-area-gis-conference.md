@@ -1,8 +1,10 @@
 ---
 title: "Alamo Area GIS Conference"
 date: 2017-08-28 11:00
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Events
 ---

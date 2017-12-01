@@ -1,22 +1,19 @@
 ---
 title: "Officers & Committee"
-layout: about
+layout: page
 ---
 
-## 2017
+# 2017
 
-### Officers
+## Officers
 
-#### [Jacquelyn Bilbro, GISP](mailto:jacqcmb@gmail.com)
-##### Chair
+#### **CHAIR:** [Jacquelyn Bilbro, GISP](mailto:jacqcmb@gmail.com)
 
-#### [Jennifer Kirby](mailto:jennifer.kirby@tceq.texas.gov)
-##### Vice-Chair
+#### **VICE-CHAIR:** [Jennifer Kirby](mailto:jennifer.kirby@tceq.texas.gov)
 
-#### [Kristi Teykl, GISP](mailto:kristi.teykl@aecom.com)
-##### Secretary
-
-### Planning Committee
+#### **SECRETARY:** [Kristi Teykl, GISP](mailto:kristi.teykl@aecom.com)
+<br>
+## Planning Committee
 
 #### Chris Robertson
 #### Colin Sutton

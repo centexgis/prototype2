@@ -1,8 +1,10 @@
 ---
 title: "Full Stack Engineer at AppGeo"
 date: 2017-05-10
-author: Admin
+author:
+  name: admin
 excerpt_separator: <!--more-->
+read_time: true
 categories:
 - Jobs
 ---

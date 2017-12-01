@@ -31,4 +31,8 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - cv.md
+  - officers_committee.md
+  - events.md
+  - news.md
+  - jobs.md
+  - learn.md
