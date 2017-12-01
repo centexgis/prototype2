@@ -48,7 +48,7 @@ paginate_path: /page:num/
 
 # Disqus
 disqus:
-    shortname: centexgis
+  shortname: centexgis
 
 # Google Analytics
 google_analytics:

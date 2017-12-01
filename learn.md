@@ -1,4 +1,4 @@
 ---
 title: "Learn"
-layout: homer
+layout: home
 ---

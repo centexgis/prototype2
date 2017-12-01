@@ -1,4 +1,4 @@
 ---
 title: "Jobs"
-layout: homer
+layout: home
 ---

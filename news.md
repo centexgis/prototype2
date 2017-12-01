@@ -1,4 +1,4 @@
 ---
 title: "News"
-layout: homer
+layout: home
 ---

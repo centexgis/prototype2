@@ -1,4 +1,4 @@
 ---
 title: "Events"
-layout: homer
+layout: home
 ---
