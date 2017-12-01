@@ -32,6 +32,7 @@ google_fonts:
 navigation_pages:
   - about.md
   - officers_committee.md
+  - membership.html
   - events.md
   - news.md
   - jobs.md
