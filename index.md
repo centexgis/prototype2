@@ -1,6 +1,6 @@
 ---
 layout: home
-image: # insert an image here for the landing page - maybe carousel in js?
+image: assets/img/banner.jpg
 alt_title: "A Geographic Information Systems User Group Serving Central Texas"
 sub_title: "Austin, TX"
 ---
