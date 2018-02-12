@@ -12,3 +12,5 @@ group :jekyll_plugins do
 end
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# Added at 2018-02-12 17:05:06 -0600 by aubreyrhea:
+gem "classifier-reborn", "~> 2.2"

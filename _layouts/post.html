@@ -15,6 +15,17 @@ layout: default
       {% endif %}
     </article>
 
+    <div class="related-posts">
+      Read more like this:
+      {% for post in site.related_posts limit:3 %}
+        {% if forloop.last == true %}
+          <a href="{{ post.url | relative_url }}">{{post.title}}</a>
+        {% else %}
+          <a href="{{ post.url | relative_url }}">{{post.title}}</a> | 
+        {% endif %}
+      {% endfor %}
+    </div>
+
     {% include footer.html %}
   </div>
 </main>
