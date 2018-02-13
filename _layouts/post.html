@@ -16,13 +16,22 @@ layout: default
     </article>
 
     <div class="related-posts">
-      Read more like this:
-      {% for post in site.related_posts limit:3 %}
-        {% if forloop.last == true %}
-          <a href="{{ post.url | relative_url }}">{{post.title}}</a>
-        {% else %}
-          <a href="{{ post.url | relative_url }}">{{post.title}}</a> | 
-        {% endif %}
+      {% assign n_posts = 0 %}
+      {% for category in page.categories %}
+        {% for post in site.posts %}
+          {% if post.categories contains category and post.id != page.id %}
+            {% if n_posts == 0 %}
+              Read more like this: <a href="{{ post.url | relative_url }}">{{post.title}}</a> |
+            {% endif %}
+            {% if n_posts == 1 %}
+              <a href="{{ post.url | relative_url }}">{{post.title}}</a> |
+            {% endif %}
+            {% if n_posts == 2 %}
+              <a href="{{ post.url | relative_url }}">{{post.title}}</a>
+            {% endif %}
+            {% assign n_posts = n_posts | plus: 1 %}
+          {% endif %}
+        {% endfor %}
       {% endfor %}
     </div>
 
