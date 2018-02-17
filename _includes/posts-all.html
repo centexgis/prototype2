@@ -1,5 +1,9 @@
 {% for post in site.posts %}
-  {% if post.categories contains page.title %}
+  {% if page.title %}
+    {% if post.categories contains page.title %}
+      {% include entry.html %}
+    {% endif %}
+  {% else %}
     {% include entry.html %}
   {% endif %}
 {% endfor %}
