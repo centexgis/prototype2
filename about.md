@@ -8,7 +8,7 @@ layout: about
 We are located in the Austin, TX area and conduct quarterly meetings in central, north, and south Austin. Send us an email if you'd like to join or if you
 would like to hear about what we have going on, as well as attend our next meeting.
 
-<iframe src="https://centexgis.com/atx-map" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://centexgis.github.io/atx-map" width="100%" height="500" frameborder="0"></iframe>
 
 <br>
 
