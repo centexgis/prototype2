@@ -1,5 +1,11 @@
 {% for post in paginator.posts %}
-  {% include entry.html %}
+  {% if page.title %}
+    {% if post.categories contains page.title %}
+      {% include entry.html %}
+    {% endif %}
+  {% else %}
+    {% include entry.html %}
+  {% endif %}
 {% endfor %}
 
 <!-- Pagination links -->

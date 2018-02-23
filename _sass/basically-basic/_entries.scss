@@ -48,6 +48,15 @@
   }
 }
 
+.related-posts {
+  @include fluid-type($min-vw, $max-vw, 10px, 14px);
+  margin-top: 3rem;
+
+  a {
+    color: inherit;
+  }
+}
+
 /*
    Entry list
    ========================================================================== */
