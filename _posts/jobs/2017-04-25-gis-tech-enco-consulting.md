@@ -8,7 +8,7 @@ read_time: true
 categories:
 - Jobs
 ---
-![enco consulting](/blog/enco.png)
+![enco consulting](assets/img/blog/enco.png)
 
 ### Geographic Information Systems (GIS) Technician
 ### Enco Consulting - Austin, TX
