@@ -17,7 +17,7 @@ lang: en-US
 title: CENTEXGIS
 email: centexgis@gmail.com
 description: "A comprehensive web resource for TxDOT Austin District employees."
-baseurl: # "/example"  # the subpath of your site, e.g. /blog
+baseurl: /prototype2
 url: # ""  # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: centexgis

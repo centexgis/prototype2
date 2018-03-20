@@ -8,7 +8,7 @@ read_time: true
 categories:
 - Events
 ---
-![tnris georodeo](assets/img/blog/tnris_georodeo_17.jpg)
+![tnris georodeo](/prototype2/assets/img/blog/tnris_georodeo_17.jpg)
 ### Code, Code on the Range
 
 ### Date: Friday May 19, 2017

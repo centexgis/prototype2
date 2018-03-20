@@ -9,7 +9,7 @@ categories:
 - Events
 ---
 
-[![texas-egrt](assets/img/blog/texas_egrt.jpg)](http://www.texasegrt.org)
+[![texas-egrt](/prototype2/assets/img/blog/texas_egrt.jpg)](http://www.texasegrt.org)
 
 David W. Allen, GISP is having another Texas Emergency GIS Response Team (EGRT) training class on March 17th at the Freese & Nichols offices in Austin, TX. It is an in-person class from 8:30 to 4:00 provided to you for free - bring a laptop and David can provide a 1 year ArcGIS license if you need. After that, the time commitment is minimal until the response team is activated. You may then be asked to volunteer for a 6 hour shift in a local or regional EOC and help with the mapping duties. As you know, having fast accurate mapping available during a disaster is extremely valuable, but most agencies can’t support a GIS position specifically for emergency response … that’s where EGRT comes in. The response team trains themselves on the basics, then steps in when needed.  
 <!--more-->

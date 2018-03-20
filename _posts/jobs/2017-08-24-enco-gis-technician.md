@@ -9,7 +9,7 @@ categories:
 - Jobs
 ---
 
-![Enco Consulting](assets/img/blog/enco.png)
+![Enco Consulting](/prototype2/assets/img/blog/enco.png)
 
 Enco Consulting is looking for a GIS Technician, must have GIS Certification or equivalent courses and work experience. Need to know the ArcGIS Desktop platform and be comfortable editing and annotation data.
 <!--more-->

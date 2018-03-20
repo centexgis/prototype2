@@ -8,7 +8,7 @@ read_time: true
 categories:
 - Events
 ---
-![GSAREH](assets/img/blog/manage.png)
+![GSAREH](/prototype2/assets/img/blog/manage.png)
 
 A new training opportunity from GSAREH.
 <!--more-->
