@@ -8,7 +8,7 @@ read_time: true
 categories:
 - Events
 ---
-![centex gis](assets/img/blog/centex.png)
+![centex gis](/prototype2/assets/img/blog/centex.png)
 ### Be sure to attend the first meeting of 2017 this month at [Adelbert's Brewery](http://adelbertsbeer.com/)!!!
 ### Date: Tuesday March 28th
 ### Time: 5 - 8pm

@@ -8,7 +8,7 @@ read_time: true
 categories:
 - Events
 ---
-![centex gis](assets/img/blog/centex.png)
+![centex gis](/prototype2/assets/img/blog/centex.png)
 ### Please mark your calendars and make plans to join us for the upcoming CenTexGIS user group meeting!
 <!--more-->
 

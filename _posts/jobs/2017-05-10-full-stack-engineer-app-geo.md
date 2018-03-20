@@ -8,7 +8,7 @@ read_time: true
 categories:
 - Jobs
 ---
-![AppGeo](assets/img/blog/appgeo.png)
+![AppGeo](/prototype2/assets/img/blog/appgeo.png)
 
 ### Full Stack Engineer - AppGeo - Austin, TX
 
