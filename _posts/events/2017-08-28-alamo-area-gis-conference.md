@@ -8,7 +8,7 @@ read_time: true
 categories:
 - Events
 ---
-![AAGIS](assets/img/blog/aagis.png)
+![AAGIS](/prototype2/assets/img/blog/aagis.png)
 
 The Inaugural Professional GIS Conference hosted by the Alamo Area GIS User Group will be September 6th & 7th at the Hilton San Antonio Hill Country
 Hotel & Spa in San Antonio, TX. This is the last week to register!

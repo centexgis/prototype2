@@ -8,7 +8,7 @@ read_time: true
 categories:
 - Events
 ---
-[![geobash](assets/img/blog/geobash15.png)](https://austingeobash2015.splashthat.com/)
+[![geobash](/prototype2/assets/img/blog/geobash15.png)](https://austingeobash2015.splashthat.com/)
 
 Austin Geo Bash 2015  
 --------------------

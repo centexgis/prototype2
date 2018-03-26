@@ -8,14 +8,14 @@ read_time: true
 categories:
 - Events
 ---
-![TNRIS GIS Forum](assets/img/blog/bigtex_empty.jpg)
+![TNRIS GIS Forum](/prototype2/assets/img/blog/bigtex_empty.jpg)
 
 For 30 years, the Texas GIS Forum has been the can't-miss event for the statewide GIS community. Come to Austin this fall to hear about the latest advancements in GIS and take the opportunity to touch base with long-time colleagues – as well as make new connections.
 <!--more-->
 
 ### Lost as a Child, Online Maps Pointed To Hometown - Forum Keynote, Saroo Brierley
 
-![Saroo Key Note Speaker](assets/img/blog/saroo.jpg)
+![Saroo Key Note Speaker](/prototype2/assets/img/blog/saroo.jpg)
 
 Celebrating the 30th Annual Texas GIS Forum, Saroo Brierley, our keynote speaker, has a story that profoundly intersects his personal history with the power of modern geography and online mapping tools. Saroo will share his extraordinary story with us on Thursday, October 26, at Austin's landmark destination, The Oasis Restaurant at Lake Travis.
 

@@ -9,7 +9,7 @@ categories:
 - Events
 ---
 
-[![urisa-texas](assets/img/blog/urisa_texas.jpg)](http://urisatexas.org/event-2469580)
+[![urisa-texas](/prototype2/assets/img/blog/urisa_texas.jpg)](http://urisatexas.org/event-2469580)
 
 ###### The Role of GIS in Emergency Response and How We’re Meeting That in Texas
 <!--more-->  

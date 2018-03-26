@@ -9,7 +9,7 @@ categories:
 - Jobs
 ---
 
-![Atkins](assets/img/blog/atkins.jpg)
+![Atkins](/prototype2/assets/img/blog/atkins.jpg)
 
 ### GIS Software Developer
 ### Atkins - Anywhere in North America
