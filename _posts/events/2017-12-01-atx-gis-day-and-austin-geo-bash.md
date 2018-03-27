@@ -8,7 +8,7 @@ read_time: true
 categories:
 - Events
 ---
-[![atxgisday](assets/img/blog/atxgisday.png)](http://atxgisday.org) **+** [![geobash](assets/img/blog/geobash17.png)](https://austingeobash2017.splashthat.com/)
+[![atxgisday](/prototype2/assets/img/blog/atxgisday.png)](http://atxgisday.org) **+** [![geobash](/prototype2/assets/img/blog/geobash17.png)](https://austingeobash2017.splashthat.com/)
 
 ### ATX GIS day will take place followed by Austin Geo Bash on Tuesday December 12th!
 <!--more-->

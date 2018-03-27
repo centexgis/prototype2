@@ -8,8 +8,8 @@ read_time: true
 categories:
 - Events
 ---
-![WDS](assets/img/blog/wds.png)
-![Trimble](assets/img/blog/trimble.jpg)
+![WDS](/prototype2/assets/img/blog/wds.png)
+![Trimble](/prototype2/assets/img/blog/trimble.jpg)
 
 WDS & Trimble invite you to attend the 2017 User Group Meeting and Technology Exhibit featuring guest speakers and industry experts presenting technical seminars on a variety of Geospatial topics.
 <!--more-->

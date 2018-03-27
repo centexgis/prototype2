@@ -8,7 +8,7 @@ read_time: true
 categories:
 - Events
 ---
-![ATX GIS Day](assets/img/blog/gis_day.jpg "ATX GIS Day")
+![ATX GIS Day](/prototype2/assets/img/blog/gis_day.jpg "ATX GIS Day")
 
 ### ATX GIS Day is back this year and the planning committee has been hard at work preparing for this year’s event!
 

@@ -1,9 +1,14 @@
-{% for post in site.posts %}
-  {% if page.title %}
+<!-- Category Page -->
+{% if page.title %} 
+  {% for post in site.posts %}
     {% if post.categories contains page.title %}
       {% include entry.html %}
     {% endif %}
-  {% else %}
+  {% endfor %}
+
+<!-- Home Page -->
+{% else %}
+  {% for post in site.posts limit:5 %}
     {% include entry.html %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
+{% endif %}

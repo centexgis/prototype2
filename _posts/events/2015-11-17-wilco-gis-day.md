@@ -8,7 +8,7 @@ read_time: true
 categories:
 - Events
 ---
-![wilcogis](assets/img/blog/wilcogis.png "wilco gis logo")
+![wilcogis](/prototype2/assets/img/blog/wilcogis.png "wilco gis logo")
 
 It will be held at the United Heritage Center at the Dell Diamond. It starts at 10:00 am and end with a "Mappy" hour at Salt Lick around 4:30.
 
