@@ -16,14 +16,14 @@
 lang: en-US
 title: CENTEXGIS
 email: centexgis@gmail.com
-description: "A comprehensive web resource for TxDOT Austin District employees."
+description: "A Geographic Information Systems User Group Serving Central Texas"
 baseurl: /prototype2
 url: # ""  # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: centexgis
-  twitter: # Towlette_Pettetucci
-  picture: # https://api.adorable.io/avatars/285/johndoe.png
-twitter_username: # Towlette_Pettetucci
+  twitter: # enter twitter user name
+  picture: # enter full picture url
+twitter_username: # enter twitter user name
 github_username: centexgis
 logo: assets/img/centex.png
 
