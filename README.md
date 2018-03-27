@@ -13,10 +13,10 @@ Posts to the centexgis.com site are written in [markdown](https://daringfireball
 
 4. To add a new post, open your [text editor](https://atom.io/) of choice. Save your new text file in the format `yyyy-mm-dd-name-of-post-like-this.md` where `yyyy` is the current four-digit year, `mm` is the two-digit month, and `dd` is the two digit day, followed by a name to describe the post, and then the `.md` or `.markdown` file extension.
 
-5. At the top of your new post, make sure to include the proper header info (this is called [front matter](https://jekyllrb.com/docs/frontmatter/)) necessary for the post to be recognized by the Jekyll site. Include the following: ![front matter](assets/img/front-matter.jpg)
+5. At the top of your new post, make sure to include the proper header info, this is called [front matter](https://jekyllrb.com/docs/frontmatter/), necessary for the post to be recognized by the Jekyll site. Include the following.<br> ![front matter](assets/img/front-matter.jpg)
 
 6. Below the required header, you can begin your post content formatted in markdown. If you do not require any special formatting, hyperlinks, images, etc, you can always just type plain text. For markdown syntax reference, please refer to [daringfireball.net](https://daringfireball.net/projects/markdown/) or [github guides](https://guides.github.com/features/mastering-markdown/) or any other
-markdown reference you may find useful. Here is an example of a plain text job posting (no links, images, etc). ![markdown example](assets/img/md_example.jpg)
+markdown reference you may find useful. Here is an example of a plain text job posting (no links, images, etc).<br> ![markdown example](assets/img/md_example.jpg)
 
  ***Note:*** If you would like to insert an image to your post, navigate to `/assets/img/blog/` and drag and drop your new image into this directory. Reference the image in your markdown post like:
 
@@ -24,7 +24,7 @@ markdown reference you may find useful. Here is an example of a plain text job p
 
 7. Once your local markdown file is complete, open your browser to the `centexgis.github.io` repo location you would like it to be posted to (ie. *centexgis.github.io/_posts/jobs/*).
 
-8. Drag your .md or .markdown file from your machine (desktop) to the GitHub location in your browser. ![drag drop md](assets/img/drag_md.jpg)
+8. Drag your .md or .markdown file from your machine (desktop) to the GitHub location in your browser.<br> ![drag drop md](assets/img/drag_md.jpg)
 
 9. Once you drop the file in the browser, the `commit` options will appear. You can choose to type a commit changes note for this commit, or you can proceed with the default ‘Add files via upload’ text. You also have an option for an extended description.
 
